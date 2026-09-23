@@ -1,6 +1,7 @@
 # System/IDE
 .vscode/
 .freebuff/
+.tmp/
 Thumbs.db
 .DS_Store
 
